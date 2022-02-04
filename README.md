@@ -1,6 +1,7 @@
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" />
+<!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" /> -->
 
 🔭 I’m currently working on:
 
@@ -27,9 +28,10 @@ How to become mentor ? <br>
 
 Mail Id: shailesh@mit.tc<br>
 
-😄 Pronouns:
+😄 Pronouns: He/Him
 
-He/Him
+### My GitHub Status 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh) ![Github stats](https://github-readme-stats.vercel.app/api?username=shailesh&show_icons=true)
 
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/pratik0197/count.svg" />
