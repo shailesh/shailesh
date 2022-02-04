@@ -1,4 +1,11 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
+<br>
+<br>
+[![twitter badge](https://img.shields.io/badge/twitter-@shaileshgoogler-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shaileshgoogler)
+[![dev.to badge](https://img.shields.io/badge/linkedin-shailes-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shailes)
+[![glitch badge](https://img.shields.io/badge/facebook-shaileshgoogler-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/shaileshgoogler)
+[![twitter badge](https://img.shields.io/badge/instagram-@shailesingh_-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shailesingh_)
+![](https://komarev.com/ghpvc/?username=shailesh&color=brightgreen&style=flat)
 ### Hi there 👋
 
 <!-- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/1256f8b9a2509fbad8f65a76ceaa2c356ff0d1ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" /> -->
