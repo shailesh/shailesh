@@ -9,17 +9,12 @@
 * Collaborate with colleagues to ideate solutions for users, prioritising based on business impact, and A/B test them.
 * Develop new user-facing products and optimize existing ones using both client-side as well as server-side languages and technologies.
 
-🌱 I’m currently learning:
-
-Scalabling Backend architecture for multi-millions of users<br>
+🌱 I’m currently learning: Scalabling Backend architecture for multi-millions of users<br>
 
 
-👯 I’m looking to collaborate with:
+👯 I’m looking to collaborate with: Everyone 🤗
 
-Everyone 🤗
-
-🤔 I’m looking for help with:
-Feedbacks / Ideas
+🤔 I’m looking for help with: Feedbacks / Ideas
 
 💬 Ask me about:
 
